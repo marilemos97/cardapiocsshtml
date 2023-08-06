@@ -1,0 +1,61 @@
+body {
+    font-size: 20pt;
+    background-color: beige;
+    margin: auto;
+    text-align: center;
+    padding: 0.4rem;
+    font-family: 'Courier New',Courier, monospace;
+}
+
+header{
+   background-color: lightpink;
+}
+
+
+.inicial{
+border-radius: 300px;  
+}
+
+h1 {
+   padding-top: 0.5rem;
+  color: darkturquoise;
+  font-size: 67pt;
+} 
+
+h2{
+  background-color: paleturquoise;
+  display: inline-block;
+  padding: 15px 32px;
+  border-radius: 16px;
+}
+
+.produtos {
+border-radius: 50px;
+align-items: flex;
+}
+
+footer{
+display: inline-block;
+background-color: paleturquoise;
+padding: 15px 32px;
+border-radius: 16px;
+font-weight: bolder;
+  margin-top: 100px;
+}
+
+li{
+display: inline-block;
+list-style-type: none;
+text-align: center;
+  column-count:3rem;
+  border: 5px dashed pink;
+  font-size: 20pt;
+}
+
+h3{
+  background-color: greenyellow
+}
+
+.negrito {
+  font-weight:bolder;
+}
